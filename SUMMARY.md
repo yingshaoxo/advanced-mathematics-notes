@@ -9,4 +9,5 @@
   * [因式分解](gao-deng-shu-xue-yu-bei-zhi-shi/yin-shi-fen-jie.md)
   * [定积分的计算](gao-deng-shu-xue-yu-bei-zhi-shi/ding-ji-fen-de-ji-suan.md)
   * [Log or ln](gao-deng-shu-xue-yu-bei-zhi-shi/log-or-ln.md)
+  * [反函数](gao-deng-shu-xue-yu-bei-zhi-shi/fan-han-shu.md)
 
