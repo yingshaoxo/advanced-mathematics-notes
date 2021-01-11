@@ -1,4 +1,4 @@
-# Chapter 1
+# 直接用同济教材
 
 ## “互质”是什么东西？
 
@@ -18,9 +18,9 @@ common divisor
 
 ## 中文书简直是垃圾
 
-![](.gitbook/assets/1cn.png)
+![](../.gitbook/assets/1cn.png)
 
-![](.gitbook/assets/1en.png)
+![](../.gitbook/assets/1en.png)
 
 `F` is not a '映射'，it's a `function` .
 
