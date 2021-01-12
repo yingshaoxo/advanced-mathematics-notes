@@ -12,4 +12,5 @@
   * [反函数](gao-deng-shu-xue-yu-bei-zhi-shi/fan-han-shu.md)
   * [Limitations](gao-deng-shu-xue-yu-bei-zhi-shi/limitations.md)
   * [等价无穷小](gao-deng-shu-xue-yu-bei-zhi-shi/deng-jia-wu-qiong-xiao.md)
+  * [间断点](gao-deng-shu-xue-yu-bei-zhi-shi/jian-duan-dian.md)
 
