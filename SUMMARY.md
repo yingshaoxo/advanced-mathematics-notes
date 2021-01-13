@@ -6,6 +6,7 @@
   * [用上了 张宇 的教材](chapter-1/yong-shang-le-zhang-yu-de-jiao-cai.md)
   * [Untitled](chapter-1/untitled.md)
 * [高等数学预备知识](gao-deng-shu-xue-yu-bei-zhi-shi/README.md)
+  * [数学学习的秘诀](gao-deng-shu-xue-yu-bei-zhi-shi/shu-xue-xue-xi-de-mi-jue.md)
   * [因式分解](gao-deng-shu-xue-yu-bei-zhi-shi/yin-shi-fen-jie.md)
   * [定积分的计算](gao-deng-shu-xue-yu-bei-zhi-shi/ding-ji-fen-de-ji-suan.md)
   * [Log or ln](gao-deng-shu-xue-yu-bei-zhi-shi/log-or-ln.md)
