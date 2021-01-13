@@ -36,5 +36,7 @@ $$
 
 {% embed url="https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-8/v/sinx-over-x-as-x-approaches-0\#:~:text=Showing%20that%20the%20limit%20of,ve%20reached%20the%20right%20place!" %}
 
+## 极限趋于正无穷或负无穷
 
+![](../.gitbook/assets/image%20%287%29.png)
 
