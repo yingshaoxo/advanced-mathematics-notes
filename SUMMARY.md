@@ -17,4 +17,5 @@
   * [Coding Practice](gao-deng-shu-xue-yu-bei-zhi-shi/coding-practice.md)
 * [数列极限\(The limit of sequence\)](shu-lie-ji-xian-the-limit-of-sequence/README.md)
   * [epsilon](shu-lie-ji-xian-the-limit-of-sequence/epsilon.md)
+  * [绝对值不等式](shu-lie-ji-xian-the-limit-of-sequence/jue-dui-zhi-bu-deng-shi.md)
 
