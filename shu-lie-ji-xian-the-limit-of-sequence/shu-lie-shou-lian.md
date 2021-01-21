@@ -1,4 +1,4 @@
-# 数列收敛
+# 数列收敛\(Convergence/Divergence of Series\)
 
 ## 定义
 
@@ -7,6 +7,10 @@
 > 数列收敛：value随着key增大而趋近于某个constant value
 
 发散 ==！收敛
+
+收敛数列: Convergent series\(sequence\)
+
+发散数列: Divergent series\(sequence\)
 
 ## 子数列
 
