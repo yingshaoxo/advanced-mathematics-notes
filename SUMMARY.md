@@ -20,4 +20,5 @@
   * [绝对值不等式](shu-lie-ji-xian-the-limit-of-sequence/jue-dui-zhi-bu-deng-shi.md)
   * [数列收敛](shu-lie-ji-xian-the-limit-of-sequence/shu-lie-shou-lian.md)
   * [夹逼准则](shu-lie-ji-xian-the-limit-of-sequence/jia-bi-zhun-ze.md)
+  * [放缩法](shu-lie-ji-xian-the-limit-of-sequence/fang-suo-fa.md)
 
