@@ -22,4 +22,6 @@
   * [夹逼准则\(Squeeze theorem\)](shu-lie-ji-xian-the-limit-of-sequence/jia-bi-zhun-ze.md)
   * [放缩法](shu-lie-ji-xian-the-limit-of-sequence/fang-suo-fa.md)
   * [单调有界](shu-lie-ji-xian-the-limit-of-sequence/dan-tiao-you-jie.md)
+* [函数的连续性与极限\(Function continuity and limit\)](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/README.md)
+  * [delta](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/delta.md)
 
