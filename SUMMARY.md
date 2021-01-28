@@ -25,4 +25,5 @@
 * [函数的连续性与极限\(Function continuity and limit\)](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/README.md)
   * [delta](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/delta.md)
   * [tan and arctan](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/tan-and-arctan.md)
+  * [“开”绝对值不等式](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/kai-jue-dui-zhi-bu-deng-shi.md)
 
