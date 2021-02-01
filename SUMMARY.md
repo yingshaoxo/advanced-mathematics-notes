@@ -27,4 +27,5 @@
   * [tan and arctan](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/tan-and-arctan.md)
   * [“开”绝对值不等式](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/kai-jue-dui-zhi-bu-deng-shi.md)
   * [u^v](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/u-v.md)
+  * [间断点怎么找](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/jian-duan-dian-zen-me-zhao.md)
 
