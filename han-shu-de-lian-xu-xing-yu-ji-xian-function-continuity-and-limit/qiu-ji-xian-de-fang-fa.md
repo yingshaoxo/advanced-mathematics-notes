@@ -69,5 +69,7 @@ $$
 \lim _{x \rightarrow 1} \ln x \sim x-1
 $$
 
+### 泰勒公式
 
+用来等价替换与抵消。
 
