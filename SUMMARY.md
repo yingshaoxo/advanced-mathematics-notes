@@ -28,4 +28,6 @@
   * [u^v](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/u-v.md)
   * [间断点怎么找](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/jian-duan-dian-zen-me-zhao.md)
   * [求极限的方法](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/qiu-ji-xian-de-fang-fa.md)
+* [一元函数微分学的概念与计算 \(differential calculus\)](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/README.md)
+  * [导数的概念](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/dao-shu-de-gai-nian.md)
 

@@ -1,0 +1,12 @@
+# 导数的概念
+
+
+
+$$
+f'(x_0)=\lim_{\Delta x \to 0}\frac{\Delta y}{\Delta x}=\lim_{\Delta x \to 0}\frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}
+$$
+
+f\(x\) 在 x0 点处的瞬时变化率。
+
+在2D图像中，某点的导数==某点的切线斜率。
+
