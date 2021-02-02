@@ -4,9 +4,9 @@
 
 L'Hôpital's rule
 
-![](../.gitbook/assets/image%20%2824%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
-![](../.gitbook/assets/image%20%2825%29.png)
+![](../.gitbook/assets/image%20%2824%29.png)
 
 ### 基本求导公式
 
@@ -58,4 +58,8 @@ $$
 &\cot{x} = \frac{\cos{x}}{\sin{x}}
 \end{align*}
 $$
+
+### 基本无穷小量替换
+
+![](../.gitbook/assets/image%20%284%29.png)
 
