@@ -63,3 +63,11 @@ $$
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
+
+
+$$
+\lim _{x \rightarrow 1} \ln x \sim x-1
+$$
+
+
+
