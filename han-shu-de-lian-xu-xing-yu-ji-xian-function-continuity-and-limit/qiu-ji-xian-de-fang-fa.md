@@ -61,6 +61,8 @@ $$
 
 ## 基本无穷小量替换
 
+**Can be only applied when x -&gt; 0**
+
 ![](../.gitbook/assets/image%20%284%29.png)
 
 
@@ -70,6 +72,8 @@ $$
 $$
 
 ## 泰勒公式
+
+**Can be only applied when x -&gt; 0**
 
 用来等价替换与抵消。
 
