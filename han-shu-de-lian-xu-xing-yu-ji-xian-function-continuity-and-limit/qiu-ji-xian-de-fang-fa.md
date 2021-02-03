@@ -37,7 +37,7 @@ $$
 \end{align*}
 $$
 
-### 基本恒等变形
+## 基本恒等变形
 
 $$
 \begin{align*}
@@ -59,7 +59,7 @@ $$
 \end{align*}
 $$
 
-### 基本无穷小量替换
+## 基本无穷小量替换
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
@@ -69,7 +69,7 @@ $$
 \lim _{x \rightarrow 1} \ln x \sim x-1
 $$
 
-### 泰勒公式
+## 泰勒公式
 
 用来等价替换与抵消。
 
@@ -82,5 +82,7 @@ $$
 \end{array}
 $$
 
+## 例子
 
+![](../.gitbook/assets/image%20%2825%29.png)
 
