@@ -10,3 +10,9 @@ Support Me With Your Amazing Money:
 
 ![](.gitbook/assets/ailipay.jpg)
 
+## About
+
+著者: 胡英杰 \(yingshaoxo\)
+
+![](.gitbook/assets/me.jpeg)
+
