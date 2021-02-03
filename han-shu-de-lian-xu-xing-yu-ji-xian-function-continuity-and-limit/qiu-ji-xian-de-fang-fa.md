@@ -63,3 +63,24 @@ $$
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
+
+
+$$
+\lim _{x \rightarrow 1} \ln x \sim x-1
+$$
+
+### 泰勒公式
+
+用来等价替换与抵消。
+
+$$
+\begin{array}{ll}
+\sin x=x-\frac{x^{3}}{3 !}+o\left(x^{3}\right), & \cos x=1-\frac{x^{2}}{2 !}+\frac{x^{4}}{4 !}+o\left(x^{4}\right) \\ \\
+\arcsin x=x+\frac{x^{3}}{3 !}+o\left(x^{3}\right), & \tan x=x+\frac{x^{3}}{3}+o\left(x^{3}\right) \\ \\
+\arctan x=x-\frac{x^{3}}{3 !}+o\left(x^{3}\right), & \ln (1+x)=x-\frac{x^{2}}{2}+\frac{x^{3}}{3}+o\left(x^{3}\right) \\ \\
+\mathrm{e}^{x}=1+x+\frac{x^{2}}{2 !}+\frac{x^{3}}{3 !}+o\left(x^{3}\right), & (1+x)^{\alpha}=1+\alpha x+\frac{\alpha(\alpha-1)}{2 !} x^{2}+o\left(x^{2}\right)
+\end{array}
+$$
+
+
+
