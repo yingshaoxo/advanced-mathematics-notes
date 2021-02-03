@@ -1,8 +1,6 @@
 # 求极限的方法
 
-## 洛必达法则 <a id="firstHeading"></a>
-
-L'Hôpital's rule
+## 洛必达法则\(L'Hôpital's rule\) <a id="firstHeading"></a>
 
 ![](../.gitbook/assets/image%20%285%29.png)
 
@@ -63,6 +61,8 @@ $$
 
 **Can be only applied when x -&gt; 0**
 
+> **实际上是由泰勒公式推导出来的。**
+
 ![](../.gitbook/assets/image%20%284%29.png)
 
 
@@ -71,7 +71,7 @@ $$
 \lim _{x \rightarrow 1} \ln x \sim x-1
 $$
 
-## 泰勒公式
+## 泰勒公式\(Taylor's theorem\)
 
 **Can be only applied when x -&gt; 0**
 
