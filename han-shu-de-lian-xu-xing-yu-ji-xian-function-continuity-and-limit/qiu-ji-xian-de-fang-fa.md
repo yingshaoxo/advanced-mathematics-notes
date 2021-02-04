@@ -2,6 +2,11 @@
 
 ## 洛必达法则\(L'Hôpital's rule\) <a id="firstHeading"></a>
 
+使用条件: 
+
+1. `0/0` or `无穷/无穷` 型 分式
+2. 分子与分母皆可以求出导数
+
 ![](../.gitbook/assets/image%20%285%29.png)
 
 ![](../.gitbook/assets/image%20%2824%29.png)
@@ -56,6 +61,10 @@ $$
 &\cot{x} = \frac{\cos{x}}{\sin{x}}
 \end{align*}
 $$
+
+## 极限的四则运算
+
+![](../.gitbook/assets/image%20%2826%29.png)
 
 ## 基本无穷小量替换
 
