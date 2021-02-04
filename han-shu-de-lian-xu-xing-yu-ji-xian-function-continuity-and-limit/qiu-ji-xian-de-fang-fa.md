@@ -1,5 +1,7 @@
 # 求极限的方法
 
+## [https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-7/v/flow-chart-of-limit-strategies](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-7/v/flow-chart-of-limit-strategies) <a id="firstHeading"></a>
+
 ## 洛必达法则\(L'Hôpital's rule\) <a id="firstHeading"></a>
 
 使用条件: 
