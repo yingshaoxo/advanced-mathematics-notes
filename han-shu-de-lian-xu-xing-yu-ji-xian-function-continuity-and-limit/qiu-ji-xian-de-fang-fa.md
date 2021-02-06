@@ -64,6 +64,24 @@ $$
 \end{align*}
 $$
 
+$$
+\begin{align*}
+&\sin 2 \alpha=2 \sin \alpha \cos \alpha
+\\ \\
+&\cos 2 \alpha=\cos ^{2} \alpha-\sin ^{2} \alpha=1-2 \sin ^{2} \alpha=2 \cos ^{2} \alpha-1
+\end{align*}
+$$
+
+$$
+\begin{array}{l}
+\sin (\alpha \pm \beta)=\sin \alpha \cdot \cos \beta \pm \cos \alpha \cdot \sin \beta 
+\\ \\
+\cos (\alpha \pm \beta)=\cos \alpha \cdot \cos \beta \mp\sin \alpha \cdot \sin \beta 
+\\ \\
+\tan (\alpha \pm \beta)=\frac{\tan \alpha \pm \tan \beta}{1 \mp \tan \alpha \cdot \tan \beta}
+\end{array}
+$$
+
 ## 极限的四则运算
 
 ![](../.gitbook/assets/image%20%2826%29.png)
