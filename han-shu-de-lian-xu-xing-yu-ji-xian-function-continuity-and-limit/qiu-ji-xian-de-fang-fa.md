@@ -6,7 +6,7 @@
 
 使用条件: 
 
-1. `0/0` or `∞/∞` 型 分式
+1. `0/0` or `无穷/无穷` 型 分式
 2. 分子与分母皆可以求出导数
 
 ![](../.gitbook/assets/image%20%285%29.png)
@@ -40,10 +40,6 @@ $$
 (\arctan{x})^\prime &= \frac{1}{1 + x^2}    &(arccot{x})^\prime &= -\frac{1}{1 + x^2} \\ \\
 
 \end{align*}
-$$
-
-$$
-\left(\ln \left(x+\sqrt{1+x^{2}}\right)\right)^{\prime}=\frac{1}{\sqrt{1+x^{2}}}
 $$
 
 ## 基本恒等变形
