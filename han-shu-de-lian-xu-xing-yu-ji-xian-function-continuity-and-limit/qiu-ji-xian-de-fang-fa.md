@@ -1,4 +1,4 @@
-# 求极限的方法
+# 求极限的基本方法
 
 ## [https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-7/v/flow-chart-of-limit-strategies](https://www.khanacademy.org/math/ap-calculus-ab/ab-limits-new/ab-1-7/v/flow-chart-of-limit-strategies) <a id="firstHeading"></a>
 
@@ -6,7 +6,7 @@
 
 使用条件: 
 
-1. `0/0` or `无穷/无穷` 型 分式
+1. `0/0` or `∞/∞` 型 分式
 2. 分子与分母皆可以求出导数
 
 ![](../.gitbook/assets/image%20%285%29.png)
@@ -40,6 +40,10 @@ $$
 (\arctan{x})^\prime &= \frac{1}{1 + x^2}    &(arccot{x})^\prime &= -\frac{1}{1 + x^2} \\ \\
 
 \end{align*}
+$$
+
+$$
+\left(\ln \left(x+\sqrt{1+x^{2}}\right)\right)^{\prime}=\frac{1}{\sqrt{1+x^{2}}}
 $$
 
 ## 基本恒等变形
