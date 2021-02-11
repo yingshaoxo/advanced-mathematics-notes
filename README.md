@@ -14,5 +14,7 @@ Support Me With Your Amazing Money:
 
 著者: 胡英杰 \(yingshaoxo\)
 
+2022考研上岸群: [https://t.me/kaoyan2022plus](https://t.me/kaoyan2022plus)
+
 ![](.gitbook/assets/me.jpeg)
 
