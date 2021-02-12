@@ -101,7 +101,11 @@ $$
 
 
 $$
-\lim _{x \rightarrow 1} \ln x \sim x-1
+\lim _{x \rightarrow 1} \ln x = \lim_{x \rightarrow 1} x-1
+$$
+
+$$
+\lim _{x \rightarrow 0} x\ln x = 0
 $$
 
 ## 泰勒公式\(Taylor's theorem\)
