@@ -4,7 +4,7 @@
 
 著者: 胡英杰 \(yingshaoxo\)
 
-2022考研上岸群: [https://t.me/kaoyan2022plus](https://t.me/kaoyan2022plus)
+2022考研上岸群: [https://t.me/kaoyan20xx](https://t.me/kaoyan20xx)
 
 ![](.gitbook/assets/me.jpeg)
 
