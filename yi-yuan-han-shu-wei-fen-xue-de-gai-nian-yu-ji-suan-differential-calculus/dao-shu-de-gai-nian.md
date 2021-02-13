@@ -1,6 +1,6 @@
 # 导数的概念
 
-## 导数的定义 \(Defin**i**tion\)
+## 导数的定义 \(Derivative\)
 
 $$
 f'(x_0)=\lim_{\Delta x \to 0}\frac{\Delta y}{\Delta x}=\lim_{\Delta x \to 0}\frac{f(x_0+\Delta x)-f(x_0)}{\Delta x}
