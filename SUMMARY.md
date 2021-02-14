@@ -35,6 +35,7 @@
   * [求极限的终极方法](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/qiu-ji-xian-de-zhong-ji-fang-fa.md)
   * [无穷小比阶](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/wu-qiong-xiao-bi-jie.md)
   * [My thinkings about math](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/my-thinkings-about-math.md)
+  * [Pattern recognize on questions](han-shu-de-lian-xu-xing-yu-ji-xian-function-continuity-and-limit/pattern-recognize-on-questions.md)
 * [一元函数微分学的概念与计算 \(differential calculus\)](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/README.md)
   * [导数的概念](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/dao-shu-de-gai-nian.md)
   * [Fraction \(念英语\)](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/fraction-nian-ying-yu.md)
