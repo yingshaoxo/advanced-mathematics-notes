@@ -83,6 +83,8 @@ $$
 \frac{10}{x}-1<\left[\frac{10}{x}\right] \leqslant \frac{10}{x}
 $$
 
+### 若x-&gt;0-，则lim \[x\] = -1
+
 ## 无穷的0次方
 
 $$
