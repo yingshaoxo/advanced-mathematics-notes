@@ -108,7 +108,7 @@ $$
 x趋于0的速度比\ln x趋向 \infty 的速度快
 $$
 
-### when x approaches infinity, ln\(1+1/x\) also ~= x
+### when x approaches infinity, ln\(1+1/x\) also ~ x
 
 $$
 \lim _{x \rightarrow \infty} \ln (1+\frac{1}{x}) = \lim_{x \rightarrow 0} ln(1 + x) = \lim _{x \rightarrow 0} x
