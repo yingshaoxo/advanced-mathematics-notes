@@ -98,8 +98,6 @@ $$
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-
-
 $$
 \lim _{x \rightarrow 1} \ln x = \lim_{x \rightarrow 1} x-1
 $$
@@ -108,6 +106,12 @@ $$
 \lim _{x \rightarrow 0} x\ln x = 0
 \\
 x趋于0的速度比\ln x趋向 \infty 的速度快
+$$
+
+### when x approaches infinity, ln\(1+1/x\) also ~= x
+
+$$
+\lim _{x \rightarrow \infty} \ln (1+\frac{1}{x}) = \lim_{x \rightarrow 0} ln(1 + x) = \lim _{x \rightarrow 0} x
 $$
 
 ## 泰勒公式\(Taylor's theorem\)
