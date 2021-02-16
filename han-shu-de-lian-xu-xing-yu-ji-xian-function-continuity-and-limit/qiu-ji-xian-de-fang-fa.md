@@ -92,9 +92,9 @@ $$
 
 ## 基本无穷小量替换
 
-**Can be only applied when x -&gt; 0**
+**Can be only applied when x -&gt; 0 并且分子或分母是一整块儿的乘除法式子。**
 
-> **实际上是由泰勒公式推导出来的。**
+> **实际上是由泰勒公式推导出来的。最好习惯用泰勒展开式。**
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
