@@ -103,6 +103,14 @@ $$
 ![](../.gitbook/assets/image%20%284%29.png)
 
 $$
+\begin{align*}
+1 - e ^ { x } &= - ( e ^ { x } - 1 )
+\\
+&\sim x
+\end{align*}
+$$
+
+$$
 \lim _{x \rightarrow 1} \ln x = \lim_{x \rightarrow 1} x-1
 $$
 
