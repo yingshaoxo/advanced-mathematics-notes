@@ -86,6 +86,10 @@ $$
 \end{array}
 $$
 
+$$
+\lim _ { x \rightarrow 0 ^ { + } } x ^ { x } = 1
+$$
+
 ## 极限的四则运算
 
 ![](../.gitbook/assets/image%20%2826%29.png)
