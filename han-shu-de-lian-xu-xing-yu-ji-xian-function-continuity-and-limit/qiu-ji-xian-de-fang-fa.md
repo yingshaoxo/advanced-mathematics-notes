@@ -46,6 +46,10 @@ $$
 \left(\ln \left(x+\sqrt{1+x^{2}}\right)\right)^{\prime}=\frac{1}{\sqrt{1+x^{2}}}
 $$
 
+$$
+\left(\frac{f(x)}{g(x)}\right)^{\prime}=\frac{f^{\prime}(x) g(x)-f(x) g^{\prime}(x)}{g(x)^{2}}
+$$
+
 ## 基本恒等变形
 
 $$
