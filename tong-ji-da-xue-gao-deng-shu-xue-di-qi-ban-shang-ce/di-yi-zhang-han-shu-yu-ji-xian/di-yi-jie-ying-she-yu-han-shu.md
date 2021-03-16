@@ -52,3 +52,11 @@ Similarly, P is sufficient for Q, because P being true always implies that Q is 
 
 > yingshaoxo: P is sufficient enough for us to do Q. P without Q is not a complete rule, so it is necessary to have Q.
 
+### 组合\(combinations\)
+
+从n中，选取k项:
+
+$$
+{\displaystyle C_{k}^{n}={n \choose k}={\frac {n!}{k!(n-k)!}}}
+$$
+
