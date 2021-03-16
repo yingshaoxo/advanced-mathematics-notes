@@ -39,4 +39,7 @@
 * [一元函数微分学的概念与计算 \(differential calculus\)](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/README.md)
   * [导数的概念](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/dao-shu-de-gai-nian.md)
   * [Fraction \(念英语\)](yi-yuan-han-shu-wei-fen-xue-de-gai-nian-yu-ji-suan-differential-calculus/fraction-nian-ying-yu.md)
+* [同济大学高等数学第七版上册](tong-ji-da-xue-gao-deng-shu-xue-di-qi-ban-shang-ce/README.md)
+  * [第一章 函数与极限](tong-ji-da-xue-gao-deng-shu-xue-di-qi-ban-shang-ce/di-yi-zhang-han-shu-yu-ji-xian/README.md)
+    * [第一节 映射与函数](tong-ji-da-xue-gao-deng-shu-xue-di-qi-ban-shang-ce/di-yi-zhang-han-shu-yu-ji-xian/di-yi-jie-ying-she-yu-han-shu.md)
 
