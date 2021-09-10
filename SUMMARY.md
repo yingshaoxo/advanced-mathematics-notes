@@ -14,6 +14,7 @@
   * [等价无穷小](gao-deng-shu-xue-yu-bei-zhi-shi/deng-jia-wu-qiong-xiao.md)
   * [间断点](gao-deng-shu-xue-yu-bei-zhi-shi/jian-duan-dian.md)
   * [Coding Practice](gao-deng-shu-xue-yu-bei-zhi-shi/coding-practice.md)
+  * [From khan academy](gao-deng-shu-xue-yu-bei-zhi-shi/from-khan-academy.md)
 * [数列极限\(The limit of sequence\)](shu-lie-ji-xian-the-limit-of-sequence/README.md)
   * [epsilon](shu-lie-ji-xian-the-limit-of-sequence/epsilon.md)
   * [绝对值不等式](shu-lie-ji-xian-the-limit-of-sequence/jue-dui-zhi-bu-deng-shi.md)
