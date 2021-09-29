@@ -44,4 +44,5 @@
   * [第一章 函数与极限](tong-ji-da-xue-gao-deng-shu-xue-di-qi-ban-shang-ce/di-yi-zhang-han-shu-yu-ji-xian/README.md)
     * [第一节 映射与函数](tong-ji-da-xue-gao-deng-shu-xue-di-qi-ban-shang-ce/di-yi-zhang-han-shu-yu-ji-xian/di-yi-jie-ying-she-yu-han-shu.md)
     * [第二节 数列与极限](tong-ji-da-xue-gao-deng-shu-xue-di-qi-ban-shang-ce/di-yi-zhang-han-shu-yu-ji-xian/di-er-jie-shu-lie-yu-ji-xian.md)
+* [Probability Theory](probability-theory.md)
 
